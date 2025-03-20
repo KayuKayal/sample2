@@ -1,1 +1,2 @@
 file in gitbranch1
+Changed textfile.txt
